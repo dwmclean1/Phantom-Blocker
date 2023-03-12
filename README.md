@@ -8,8 +8,6 @@ This tiny PCB can be used inline on an XLR mixer input to protect the connected 
 
 ![](https://github.com/dwmclean1/Phantom-Blocker/blob/main/images/IMG_0009.jpg)
 
-br
-
 
 
 It will _just_ fit inside a cheap XLR barrel.
